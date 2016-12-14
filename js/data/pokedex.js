@@ -2110,18 +2110,32 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
     },
     "w": 5.8
   },
-  "Blissey": {
+  "Blissey-Slowbro": {
     "t1": "Normal",
     "bs": {
       "hp": 255,
       "at": 10,
-      "df": 10,
-      "sa": 75,
+      "df": 80,
+      "sa": 105,
       "sd": 135,
       "sp": 55
     },
     "w": 46.8
+
   },
+  "Blissey-Sableye": {
+    "t1": "Normal",
+    "bs": {
+      "hp": 255,
+      "at": 20,
+      "df": 60,
+      "sa": 95,
+      "sd": 185,
+      "sp": 25
+    },
+    "w": 46.8
+  },
+
   "Celebi": {
     "t1": "Psychic",
     "t2": "Grass",
@@ -6799,18 +6813,20 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 75.5
   },
-  "Weavile": {
+  "Weavile-Glalie": {
     "t1": "Dark",
     "t2": "Ice",
     "bs": {
       "hp": 70,
-      "at": 120,
+      "at": 160,
       "df": 65,
-      "sa": 45,
+      "sa": 85,
       "sd": 85,
-      "sp": 125
+      "sp": 145
     },
     "w": 34.0
+    "ab": "Refridgerate”
+
   },
   "Wormadam": {
     "t1": "Bug",
@@ -8602,19 +8618,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
     },
     "w": 9.9
   },
-  "Terrakion": {
+  "Terrakion-Lucario": {
     "t1": "Rock",
     "t2": "Fighting",
     "bs": {
       "hp": 91,
-      "at": 129,
-      "df": 90,
-      "sa": 72,
+      "at": 164,
+      "df": 108,
+      "sa": 97,
       "sd": 90,
-      "sp": 108
+      "sp": 130
     },
     "w": 260.0,
-    "ab": "Justified"
+    "ab": "Adaptability"
   },
   "Throh": {
     "t1": "Fighting",
@@ -8628,16 +8644,16 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
     },
     "w": 55.5
   },
-  "Thundurus": {
+  "Thundurus-Absol": {
     "t1": "Electric",
     "t2": "Flying",
     "bs": {
       "hp": 79,
-      "at": 115,
+      "at": 135,
       "df": 70,
-      "sa": 125,
+      "sa": 165,
       "sd": 80,
-      "sp": 111
+      "sp": 151
     },
     "w": 61.0
   },
@@ -9692,16 +9708,16 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
     "ab": "Mega Launcher"
   },
 
-   "Hoopa-Unbound": {
+   "Hoopa-Unbound-Absol": {
     "t1": "Psychic",
     "t2": "Dark",
     "bs": {
       "hp": 80,
-      "at": 160,
+      "at": 180,
       "df": 60,
-      "sa": 170,
+      "sa": 210,
       "sd": 130,
-      "sp": 80
+      "sp": 120
     },
     "w": 490.0
   },
