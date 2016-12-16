@@ -2347,7 +2347,7 @@ var SETDEX_SM = {
 		"NU Tank": {"level":100,"evs":{"hp":216,"sp":40,"sa":252},"nature":"Modest","ability":"Clear Body","item":"Leftovers","moves":["Ice Beam","Thunderbolt","Focus Blast","Thunder Wave"]},
 	},
 	"Regigigas": {
-		"MnM Sweeper": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Tough Claws","item":"None","moves":["Return",”Earthquake","Ice Punch","Drain Punch"]},
+		"MnM Sweeper": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Tough Claws","item":"None","moves":["Return","Earthquake","Ice Punch","Drain Punch"]},
 	},
 	"Regirock": {
 		"NU Mixed Defensive Tank": {"level":100,"evs":{"sd":56,"df":16,"at":184,"hp":252},"nature":"Impish","ability":"Clear Body","item":"Leftovers","moves":["Stealth Rock","Stone Edge","Thunder Wave","Earthquake"]},
