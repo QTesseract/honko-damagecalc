@@ -3831,7 +3831,7 @@ var SETDEX_SM = {
 	"Raikou-Redorb": {
 		"MNM Red Orb": {"level":100,"evs":{"df":4,"sp":252,"sa":252},"nature":"Rash","ability":"Desolate Land","item":"Red Orb","moves":["Aura Sphere","Thunderbolt","Weather Ball","Volt Switch"]},
 	},
-	"Regigigas-Aerodactyl": {
+	"Regigigas-Metagross": {
 		"MnM Sweeper": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Tough Claws","item":"None","moves":["Return","Earthquake","Ice Punch","Drain Punch"]},
 	},
 	"Skarmory-Blueorb": {
