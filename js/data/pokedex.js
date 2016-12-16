@@ -6388,7 +6388,7 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
       "sd": 130,
       "sp": 140
     },
-    "w": 420.0,
+    "w": 802.9,
     "ab": "Tough Claws"
   },
   "Revenankh": {
