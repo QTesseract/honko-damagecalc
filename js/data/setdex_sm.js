@@ -3854,6 +3854,6 @@ var SETDEX_SM = {
 	},
 	"Zygarde-Pinsir": {
 		"MNM Coil": {"level":100,"evs":{"sd":252,"hp":200,"sp":56},"nature":"Careful","ability":"Aerilate","item":"None","moves":["Extreme Speed","Coil","Thousand Arrows","Dragon Tail"]},
- +		"MNM Dragon Dance": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Dragon Dance","Thousand Arrows","Outrage","Extreme Speed"]},
+ 		"MNM Dragon Dance": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Dragon Dance","Thousand Arrows","Outrage","Extreme Speed"]},
 	},
 };
