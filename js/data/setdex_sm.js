@@ -119,7 +119,6 @@ var SETDEX_SM = {
 	},
 	"Arcanine": {
 		"UU Defensive": {"level":100,"evs":{"df":252,"at":8,"hp":248},"nature":"Impish","ability":"Intimidate","item":"Leftovers","moves":["Morning Sun","Will-O-Wisp","Flare Blitz","Extreme Speed"]},
-		"MnM Attacker": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Aerilate","item":”None","moves":["Flare Blitz","Extreme Speed","Wild Charge","Close Combat"]},
 		"Battle Spot Doubles Bulky Support": {"level":50,"evs":{"sd":12,"df":148,"hp":252,"sp":60,"sa":36},"nature":"Bold","ability":"Intimidate","item":"Sitrus Berry","moves":["Flamethrower","Will-O-Wisp","Snarl","Protect"]},
 		"Battle Spot Doubles Choiced": {"level":50,"evs":{"at":252,"hp":4,"sp":252},"nature":"Adamant","ability":"Intimidate","item":"Choice Band","moves":["Flare Blitz","Close Combat","Extreme Speed","Wild Charge"]},
 	},
@@ -587,10 +586,10 @@ var SETDEX_SM = {
 		"Battle Spot Singles Smash n&#39; Sweep": {"level":50,"evs":{"sd":4,"df":4,"at":252,"hp":108,"sp":140},"nature":"Adamant","ability":"Skill Link","item":"King\u0027s Rock","moves":["Shell Smash","Icicle Spear","Rock Blast","Ice Shard"]},
 	},
 	"Cobalion": {
-		"MnM Pinsirite": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Justified","item":"None","moves":["Return","Close Combat","Quick Attack","Iron Head"]},
 		"UU Swords Dance": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Justified","item":"Leftovers","moves":["Close Combat","Iron Head","Swords Dance","Stone Edge"]},
 		"UU Calm Mind": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Timid","ability":"Justified","item":"Leftovers","moves":["Calm Mind","Focus Blast","Flash Cannon","Hidden Power Ghost"]},
 		"OU Offensive Pivot": {"level":100,"evs":{"at":112,"hp":144,"sp":252},"nature":"Jolly","ability":"Justified","item":"Leftovers","moves":["Close Combat","Volt Switch","Iron Head","Taunt"]},
+		"MnM Pinsirite": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Return","Close Combat","Quick Attack","Iron Head"]},
 	},
 	"Cofagrigus": {
 		"RU Offensive Trick Room": {"level":100,"evs":{"df":4,"hp":252,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Mummy","item":"Leftovers","moves":["Trick Room","Nasty Plot","Shadow Ball","Hidden Power Fighting"]},
@@ -798,7 +797,7 @@ var SETDEX_SM = {
 		"PU Rest Talk Sweeper": {"level":100,"evs":{"sd":188,"at":44,"hp":252,"sp":24},"nature":"Careful","ability":"Marvel Scale","item":"Eviolite","moves":["Outrage","Dragon Dance","Rest","Sleep Talk"]},
 	},
 	"Dragonite": {
-		"MNM espeed": {"level":100,"evs":{"df":116,"hp":252,"sp":140},"nature":"Jolly","ability":"Aerilate","item":"Salamencite","moves":["Thunder Punch","Extreme Speed","Earthquake","Return"]},
+		"MNM Extreme Speed": {"level":100,"evs":{"df":116,"hp":252,"sp":140},"nature":"Jolly","ability":"Aerilate","item":"Salamencite","moves":["Thunder Punch","Extreme Speed","Earthquake","Return"]},
 		"OU Dragon Dance": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Multiscale","item":"Lum Berry","moves":["Dragon Dance","Outrage","Extreme Speed","Earthquake"]},
 		"OU Choice Band": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Multiscale","item":"Choice Band","moves":["Outrage","Extreme Speed","Fire Punch","Earthquake"]},
 		"Doubles Disappointing Dragon Dance": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Multiscale","item":"Weakness Policy","moves":["Dragon Dance","Dragon Claw","Extreme Speed","Protect"]},
@@ -912,7 +911,7 @@ var SETDEX_SM = {
 		"OU Specially Defensive": {"level":100,"evs":{"sd":252,"df":8,"hp":248},"nature":"Calm","ability":"Torrent","item":"Leftovers","moves":["Scald","Roar","Toxic","Defog"]},
 	},
 	"Entei": {
-		"MNM Atespeed": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Aerilate","item":"None","moves":["Sacred Fire","Return","Extreme Speed","Stone Edge"]},
+		"MNM -ate Speed": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Aerilate","item":"None","moves":["Sacred Fire","Return","Extreme Speed","Stone Edge"]},
 		"OU All-Out Attacker": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Pressure","item":"Choice Band","moves":["Sacred Fire","Extreme Speed","Stone Edge","Bulldoze"]},
 		"Doubles Attacker": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Adamant","ability":"Pressure","item":"Safety Goggles","moves":["Sacred Fire","Stone Edge","Extreme Speed","Protect"]},
 		"Battle Spot Singles Assault Vest": {"level":50,"evs":{"sd":52,"df":52,"at":252,"hp":132,"sp":20},"nature":"Adamant","ability":"Pressure","item":"Assault Vest","moves":["Sacred Fire","Stone Edge","Bulldoze","Flame Charge"]},
@@ -1411,7 +1410,7 @@ var SETDEX_SM = {
 	},
 	"Hoopa-Unbound": {
 		"MNM Blastoise": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Modest","ability":"Mega Launcher","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
-		"MNM Absol": {"level":100,"evs”:{"hp":4,"sp":252,"sa":252},"nature":"Timid","ability":"Magic Bounce","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
+		"MNM Absol": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Timid","ability":"Magic Bounce","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
 		"Doubles Offensive Trick Room": {"level":100,"evs":{"sd":4,"df":44,"at":252,"sa":208},"ivs":{"sp":0},"nature":"Brave","ability":"Magician","item":"Safety Goggles","moves":["Hyperspace Fury","Hyperspace Hole","Trick Room","Protect"]},
 	},
 	"Hoppip": {
@@ -3804,5 +3803,57 @@ var SETDEX_SM = {
 	"Voodoom": {
 		"CAP Mixed Attacker": {"level":100,"evs":{"sp":252,"sa":252,"at":4},"nature":"Hasty","ability":"Lightning Rod","item":"Life Orb","moves":["Dark Pulse","Close Combat","Psychic","Vacuum Wave"]},
 		"CAP Special Attacker": {"level":100,"evs":{"hp":4,"sa":252,"sp":252},"nature":"Timid","ability":"Lightning Rod","item":"Life Orb","moves":["Focus Blast","Dark Pulse","Psychic","Vacuum Wave"]},
+	},
+	"Arcanine-Pinsir": {
+		"MnM Attacker": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Flare Blitz","Extreme Speed","Wild Charge","Close Combat"]},
+	},
+	"Cobalion-Pinsir": {
+		"MnM Pinsirite": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Justified","item":"None","moves":["Return","Close Combat","Quick Attack","Iron Head"]},
+	},
+	"Dragonite-Salamence": {
+		"MNM Extreme Speed": {"level":100,"evs":{"df":116,"hp":252,"sp":140},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Thunder Punch","Extreme Speed","Earthquake","Return"]},
+	},
+	"Entei-Pinsir": {
+		"MNM -ateSpeed": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Aerilate","item":"None","moves":["Sacred Fire","Return","Extreme Speed","Stone Edge"]},
+	},
+	"Hoopa-Unbound-Blastoise": {
+		"MNM Blastoise": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Modest","ability":"Mega Launcher","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
+	},
+	"Hoopa-Unbound-Absol": {
+		"MNM Absol": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Timid","ability":"Magic Bounce","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
+	},
+	"Keldeo-Lucario": {
+		"MnM Lucario": {"level":100,"evs":{"sd":4,"sp":252,"sa":252},"nature":"Timid","ability":"Adaptability","item":"None","moves":["Scald","Secret Sword","Hydro Pump","Focus Blast"]},
+	},
+	"Manaphy-Absol": {
+		"MNM Absolite Tail Glow + 3 Attacks": {"level":100,"evs":{"df":4,"sp":252,"sa":252},"nature":"Timid","ability":"Magic Bounce","item":"None","moves":["Tail Glow","Scald","Ice Beam","Energy Ball"]},
+	},
+	"Raikou-Redorb": {
+		"MNM Red Orb": {"level":100,"evs":{"df":4,"sp":252,"sa":252},"nature":"Rash","ability":"Desolate Land","item":"Red Orb","moves":["Aura Sphere","Thunderbolt","Weather Ball","Volt Switch"]},
+	},
+	"Regigigas-Aerodactyl": {
+		"MnM Sweeper": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Tough Claws","item":"None","moves":["Return","Earthquake","Ice Punch","Drain Punch"]},
+	},
+	"Skarmory-Blueorb": {
+		"MnM Defensive": {"level":100,"evs":{"sd":4,"df":252,"hp":252},"nature":"Impish","ability":"Primordial Sea","item":"Blue Orb","moves":["Roost","Defog","Brave Bird","Whirlwind"]},
+	},
+	"Suicune-Sableye": {
+		"MNM CroCune": {"level":100,"evs":{"sd":4,"df":252,"hp":252},"nature":"Bold","ability":"Magic Bounce","item":"None","moves":["Calm Mind","Scald","Rest","Sleep Talk"]},
+	},
+	"Terrakion-Lucario": {
+		"MnM Lucario": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Adaptability","item":"None","moves":["Close Combat","Stone Edge","Rock Slide","Quick Attack"]},
+	},
+	"Victini-Redorb": {
+		"MnM Attacker": {"level":100,"evs":{"at":4,"sp":252,"sa":252},"nature":"Naive","ability":"Desolate Land","item":"Red Orb","moves":["Blue Flare","Bolt Strike","V-create","U-turn"]},
+	},
+	"Weavile-Glalie": {
+		"MnM All-out Attacker": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Refrigerate","item":"None","moves":["Fake Out","Feint","Return","Low Kick"]},
+	},
+	"Zapdos-Venusaur": {
+		"MnM Venusaurite": {"level":100,"evs":{"df":172,"hp":252,"sp":16,"sa":68},"nature":"Bold","ability":"Thick Fat","item":"None","moves":["Thunderbolt","Volt Switch","Hidden Power Ice","Heat Wave"]},
+	},
+	"Zygarde-Pinsir": {
+		"MNM Coil": {"level":100,"evs":{"sd":252,"hp":200,"sp":56},"nature":"Careful","ability":"Aerilate","item":"None","moves":["Extreme Speed","Coil","Thousand Arrows","Dragon Tail"]},
+ +		"MNM Dragon Dance": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"None","moves":["Dragon Dance","Thousand Arrows","Outrage","Extreme Speed"]},
 	},
 };
