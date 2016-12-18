@@ -5318,15 +5318,15 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 151.0
   },
-  "Azelf": {
+  "Azelf-Absol": {
     "t1": "Psychic",
     "bs": {
       "hp": 75,
-      "at": 125,
+      "at": 145,
       "df": 70,
-      "sa": 125,
+      "sa": 165,
       "sd": 70,
-      "sp": 115
+      "sp": 155
     },
     "w": 0.3,
     "ab": "Levitate"
@@ -6126,16 +6126,16 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 68.0
   },
-  "Magnezone": {
+  "Magnezone-Pinsir": {
     "t1": "Electric",
-    "t2": "Steel",
+    "t2": "Flying",
     "bs": {
       "hp": 70,
-      "at": 70,
-      "df": 115,
-      "sa": 130,
-      "sd": 90,
-      "sp": 60
+      "at": 100,
+      "df": 125,
+      "sa": 150,
+      "sd": 100,
+      "sp":80
     },
     "w": 180.0
   },
@@ -12139,16 +12139,16 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     "w": 24.0,
     "ab": "Adaptability"
   },
-  "Tapu Lele": {
+  "Tapu Lele-Absol": {
     "t1": "Psychic",
     "t2": "Fairy",
     "bs": {
       "hp": 70,
-      "at": 85,
+      "at": 105,
       "df": 75,
-      "sa": 130,
+      "sa": 170,
       "sd": 115,
-      "sp": 95
+      "sp": 135
     },
     "w": 18.6,
     "ab": "Psychic Surge"
