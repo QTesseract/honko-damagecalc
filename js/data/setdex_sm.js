@@ -87,7 +87,7 @@ var SETDEX_SM = {
 	"Blissey-Sableye": {
 		"UU De Blob (Cleric)": {"level":100,"evs":{"sd":4,"df":252,"hp":252},"nature":"Bold","ability":"Natural Cure","item":"Leftovers","moves":["Wish","Protect","Seismic Toss","Heal Bell"]},
 	},
-"Blissey-Slowbro": {
+	"Blissey-Slowbro": {
 		"UU De Blob (Cleric)": {"level":100,"evs":{"sd":4,"df":252,"hp":252},"nature":"Bold","ability":"Natural Cure","item":"Leftovers","moves":["Wish","Protect","Seismic Toss","Heal Bell"]},
 
 	},
@@ -167,7 +167,7 @@ var SETDEX_SM = {
 	"Hoopa-Unbound-Blastoise": {
 		"MNM Blastoise": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Modest","ability":"Mega Launcher","item":"None","moves":["Psychic","Dark Pulse","Focus Blast","Nasty Plot"]},
 	},
-"Hoopa-Unbound-Absol": {
+	"Hoopa-Unbound-Absol": {
 		"MNM Absol": {"level":100,"evs":{"hp":4,"sp":252,"sa":252},"nature":"Timid","ability":"Magic Bounce","item":"None","moves":["Psyshock","Dark Pulse","Focus Blast","Nasty Plot"]},
 	},
 	"Jirachi-Pinsir": {
@@ -290,9 +290,9 @@ var SETDEX_SM = {
 	"Zygarde-Pinsir": {
 		"MNM Coil": {"level":100,"evs":{"sd":252,"hp":200,"sp":56},"nature":"Careful","ability":"Aerilate","item":"None","moves":["Extreme Speed","Coil","Thousand Arrows","Dragon Tail"]},
 		"MNM Dragon Dance": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Aerilate","item":"Noneb","moves":["Dragon Dance","Thousand Arrows","Outrage","Extreme Speed"]},
-},
-"Zygarde-Perfect": {
-"MNM Coil": {"level":100,"evs":{"sd":252,"hp":200,"sp":56},"nature":"Careful","ability":"Aerilate","item":"None","moves":["Rest","Coil","Thousand Arrows","Sleep Talk"]},
+	},
+	"Zygarde-Perfect": {
+		"MNM Coil": {"level":100,"evs":{"sd":252,"hp":200,"sp":56},"nature":"Careful","ability":"Aerilate","item":"None","moves":["Rest","Coil","Thousand Arrows","Sleep Talk"]},
 	},
 	"Blaziken-Mega": {
 		"Uber Long Live Blaze": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Adamant","ability":"Speed Boost","item":"Blazikenite","moves":["Protect","Flare Blitz","Low Kick","Stone Edge"]},
